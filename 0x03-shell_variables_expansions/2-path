@@ -1,2 +1,2 @@
-#!/bin/basn
-echo $PATH:/action
+#!/bin/bash
+PATH= $PATH:/action
